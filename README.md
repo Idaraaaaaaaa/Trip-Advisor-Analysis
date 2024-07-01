@@ -29,7 +29,5 @@ Top 10 Hotels: Ranking of hotels based on average ratings, popularity, etc.
 Trend Analysis: Graphical depiction of trends in hotel stays over time.
 
 
-Usage
-Data Preparation: Ensure SQLite3 database (database.db) is accessible.
-Jupyter Notebook: Execute analysis.ipynb to preprocess data and export as data.csv.
-Tableau: Open Trip Advisor Analysis.twbx to explore visual insights.
+Insight
+The results indicate that North America and Europe have the highest total number of users, likely because these are popular tourist destinations with a greater need to check trip details. Regarding users by periods of stay, the highest number of users was recorded between March and May, possibly due to the numerous holidays during that period, such as Easter break and Workers' Day.
