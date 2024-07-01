@@ -19,8 +19,8 @@ Trends and patterns in hotel stays.
 
 
 Files
-Data Processing: Jupyter Notebook (analysis.ipynb) used for SQLite3 data extraction and CSV export.
-Visualization: Tableau workbook (Trip_Advisor.twbx) containing the interactive dashboard.
+Data Processing: Jupyter Notebook  used for SQLite3 data extraction and CSV export.
+Visualization: [Tableau workbook (Trip_Advisor.twbx) containing the interactive dashboard.](https://public.tableau.com/app/profile/esther.atakpa/viz/TripAdvisorAnalysis_17197759331040/Dashboard)
 
 
 Dashboard Features
